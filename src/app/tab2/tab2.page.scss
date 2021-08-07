@@ -1,0 +1,26 @@
+span{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float:inherit;
+}
+
+ion-card{
+    display: flex;
+    flex-direction: column;
+    width: 100% !important;
+    margin: 0 !important;
+    height: 650px;
+  }
+
+  .image{
+      max-width: 180px;
+      max-height: 200px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+  ion-icon{
+      height: 25px;
+      width: 25px;
+  }
